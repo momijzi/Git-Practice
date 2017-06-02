@@ -8,5 +8,7 @@ int main()
 	
 	cout << "ようこそ\n";
 
+	cout << "JAPANへ\n";
+
 	return 0;
 }
